@@ -14,7 +14,7 @@ This project has no build step. It's a pure skill — a collection of markdown f
 
 ```bash
 # Install the skill
-npx skills add samanvayayagsen/interactive-skill-creator
+npx skills add samanvaya5/interactive-skill-creator
 
 # Or install locally
 ./install.sh

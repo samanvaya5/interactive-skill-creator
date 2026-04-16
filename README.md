@@ -31,7 +31,7 @@ Every interactive skill is built from some combination of these patterns:
 ## Installation
 
 ```bash
-npx skills add samanvayayagsen/interactive-skill-creator
+npx skills add samanvaya5/interactive-skill-creator
 ```
 
 ## What's Included
