@@ -1,3 +1,9 @@
+**👀 Visiting this README?**
+
+If it clicks with you, please **[star the repo ⭐]**.
+
+It’s the simplest way to show it landed and helps track real interest.
+
 # Interactive Skill Creator
 
 A meta-skill for creating interactive agent skills — skills where the agent and human collaborate through structured checkpoints rather than one-shot pipelines.
